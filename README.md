@@ -3,7 +3,7 @@
 This is an examlpe of Screen splash, Login anda Regiter Page UI using #Flutter.
 
 ## Some Screenshots
-<table>
+<table style="width:100%; border-style:none; font-weight:bold; text-align:center">
 <tr>
 <td>Splash screen</td>
 <td>Login screen</td>
