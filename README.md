@@ -1,7 +1,21 @@
 # ui_authentication
 
-A new Flutter project.
+This is an examlpe of Screen splash, Login anda Regiter Page UI using #Flutter.
 
+## Some Screenshots
+<table>
+<tr>
+<td>Splash screen</td>
+<td>Login screen</td>
+<td>Register screen</td>
+</tr>
+<tr>
+<td><img src="splash_screen.png"/></td>
+<td><img src="login_screen.png"/></td>
+<td><img src="register_screen.png"/></td>
+
+</tr>
+</table>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
